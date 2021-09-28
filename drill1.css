@@ -1,0 +1,32 @@
+
+header {
+background-color: rgb(90, 89, 89);
+width: 100vw;
+height: 200px;
+}
+
+
+.left {
+    justify-content: left;
+    background-color: rgb(197, 194, 194);
+    height: 1000px;
+    width: 200px;
+    float: left;
+    
+}
+
+.right {
+    background-color: rgb(197, 194, 194);
+    height: 1000px;
+    width: 200px;
+    padding-left: 50px;
+    margin-right: -50px;
+    float: right;
+}
+
+footer {
+    background-color:rgb(20, 20, 20);
+    height: 200px;
+    width: 100vw;
+    margin-top: 782px;
+}
